@@ -1,0 +1,10 @@
+body {
+    background-image: linear-gradient(135deg, #FAB2FF 10%, #e57c04 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Open Sans", sans-serif;
+    color: #333333;
+  }
+  
+  
